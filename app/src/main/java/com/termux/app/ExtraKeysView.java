@@ -106,7 +106,7 @@ public final class ExtraKeysView extends GridLayout {
         removeAllViews();
 
         String[][] buttons = {
-            {"ESC", "CTRL", "ALT", "TAB", "―", "/", "|"}
+            {"ESC", "CTRL", "ALT", "TAB", "◀", "▼", "▲", "▶"}
         };
 
         final int rows = buttons.length;
